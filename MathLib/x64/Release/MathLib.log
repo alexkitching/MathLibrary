@@ -1,0 +1,37 @@
+﻿  BoxBoxCollision.cpp
+BoxBoxCollision.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BoxBoxCollision.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Gjk.cpp
+Gjk.cpp(96): warning C4244: 'argument': conversion from 'std::size_t' to 'const float', possible loss of data
+  MapCollision.cpp
+  Matrix3.cpp
+Matrix3.cpp(125): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(126): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(127): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(128): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(129): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(130): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(131): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(132): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(133): warning C4553: '==': operator has no effect; did you intend '='?
+Matrix3.cpp(134): warning C4800: 'Matrix3 *const ': forcing value to bool 'true' or 'false' (performance warning)
+Matrix3.cpp(139): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(140): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(141): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(142): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(143): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(144): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(145): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(146): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(147): warning C4552: '!=': operator has no effect; expected operator with side-effect
+Matrix3.cpp(148): warning C4800: 'Matrix3 *const ': forcing value to bool 'true' or 'false' (performance warning)
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  MathLib.vcxproj -> D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\proj\vs2015\x64\Release\MathLib.lib
